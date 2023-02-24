@@ -1,0 +1,23 @@
+{
+  "name": "solidity-project-week-day-4",
+  "version": "1.0.0",
+  "description": "A staking contract that allows only boardApe NFT  holder to stake token  in the contracts with compounding interest effect.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nonnyjoe/Bored-Ape-restricted-staking-contract.git"
+  },
+  "author": "IDOGWU CHINONSO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nonnyjoe/Bored-Ape-restricted-staking-contract/issues"
+  },
+  "homepage": "https://github.com/Nonnyjoe/Bored-Ape-restricted-staking-contract#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "hardhat": "^2.12.7"
+  }
+}
